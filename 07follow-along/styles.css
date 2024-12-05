@@ -45,11 +45,12 @@ header p {
         text-transform: uppercase;
         text-align: center;
         border-bottom: solid 1px #aaa;
-        color: white;
+        color: #8b5022;
     }
     nav .active a {
-        background-color: #   ;
+        background-color: #8b5022;
         background-image: linear-gradient(to bottom, #8b5022, #653a19);
+        color: white;
     }
 } /*end of the media query*/
 
